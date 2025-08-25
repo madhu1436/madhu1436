@@ -38,9 +38,9 @@
 ---
 
 ##  Experience  
-###  <img src="https://www.avitam.in/favicon.ico" width="30"/> Flutter Developer Intern – **Avitam Technologies** * Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
+###  <img src="https://www.avitam.in/favicon.ico" width="30"/> Flutter Developer Intern – **Avitam Technologies Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
 
-###  <img src="https://ittoall.com/logo.ico" width="30"/> Flutter Developer Intern – **ITtoALL Technologies ** * Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
+###  <img src=" https://www.bing.com/images/search?view=detailV2&ccid=3aws3VUi&id=1E744179E30FD2188B845C5882E50237DF830237&thid=OIP.3aws3VUipHxF1RQU647OowHaBp&mediaurl=https%3A%2F%2Fittoall.net%2Fwp-content%2Fuploads%2F2021%2F05%2FITtoALL_Logo_R.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.ddac2cdd5522a47c45d51414eb8ecea3%3Frik%3DNwKD3zcC5YJYXA%26pid%3DImgRaw%26r%3D0&exph=1095&expw=4928&q=ittoall+image&simid=608011059279836372&form=IRPRST&ck=6E6DE510B40BA5867E5C4C6E4E57058E&selectedindex=2&itb=1&pc=EMMX01&ajaxhist=0&ajaxserp=0&vt=1&sim=11 " width="30"/> Flutter Developer Intern – **ITtoALL Technologies ** * Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
 
 ---
 
