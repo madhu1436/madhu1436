@@ -58,7 +58,7 @@
 
 ## 🔥 Streak Stats  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=madhu1436&theme=radical" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?username=madhu1436&theme=radical" height="180"/>
 </p>
 
 ---
