@@ -32,17 +32,15 @@
 
 ##  Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,html,css,js,react,git,vscode,ps,ai,figma" height="45" width="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,html,css,js,react,git,vscode,ps,ai,figma" width="45"/>
 </p>
 
 ---
 
 ##  Experience  
-###  Flutter Developer Intern – **Avitam Technologies** <img src="https://www.avitam.in/favicon.ico" width="30"/>
-* Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
+###  <img src="https://www.avitam.in/favicon.ico" width="30"/> Flutter Developer Intern – **Avitam Technologies** * Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
 
-###   Flutter Developer Intern – **ITtoALL Technologies ** <img src="https://ittoall.com" width="30"/>
-* Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
+###  <img src="https://ittoall.com/logo.ico" width="30"/> Flutter Developer Intern – **ITtoALL Technologies ** * Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
 
 ---
 
@@ -82,4 +80,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)...
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
