@@ -41,7 +41,7 @@
 ###  Flutter Developer Intern – **Avitam Technologies** <img src="https://www.avitam.in/favicon.ico" width="30"/>
 * Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
 
-###  Intern – **ITtoALL** <img src="https://ittoall.com/logo.ico" width="30"/>
+###   Flutter Developer Intern – **ITtoALL Technologies ** <img src="https://ittoall.com" width="30"/>
 * Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
 
 ---
@@ -70,7 +70,7 @@
 
 ##  GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?user=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
