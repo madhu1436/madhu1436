@@ -12,19 +12,19 @@
 ##  Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/madhu1436" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:madhu.officialz1436@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/madhu1436" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/@yourfigma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
   </a>
 </p>
 
@@ -32,16 +32,14 @@
 
 ##  Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase" width="75"/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="75"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,ps,ai,figma" width="75"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,html,css,js,react,git,vscode,ps,ai,figma" width="45"/>
 </p>
 
 ---
 
 ##  Experience  
 ###  Flutter Developer Intern – **Avitam Technologies** <img src="https://www.avitam.in/favicon.ico" width="30"/>
-* Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.
+* Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
 
 ###  Intern – **ITtoALL** <img src="https://ittoall.com/logo.ico" width="30"/>
 * Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
