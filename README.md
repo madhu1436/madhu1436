@@ -32,7 +32,7 @@
 
 ##  Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,html,css,js,react,git,vscode,ps,ai,figma" width="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,html,css,js,react,git,vscode,ps,ai,figma" height="45" width="45"/>
 </p>
 
 ---
