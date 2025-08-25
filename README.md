@@ -32,7 +32,19 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,html,css,js,react,git,vscode,ps,ai,figma" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
 </p>
 
 ---
