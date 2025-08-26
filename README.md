@@ -36,17 +36,7 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=dart" width="45" height="45"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
   &nbsp;
@@ -89,13 +79,13 @@
 ## Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhu1436&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</
 
 ---
 
-## GitHub Trophies
+## Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?use36&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
