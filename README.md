@@ -33,17 +33,29 @@
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=dart" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=ps" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=ai" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
 </p>
 
@@ -83,7 +95,7 @@
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?user=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
