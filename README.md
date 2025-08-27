@@ -32,6 +32,7 @@
 
 ## Tech Stack
 <p align="center">
+  <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=dart" width="45" height="45"/>
@@ -45,7 +46,8 @@
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
-  <br>
+  <br><br>
+  <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=vs" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=excel" width="45" height="45"/>
@@ -59,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
-</p> 
+</p>
 
 ---
 ## Experience
