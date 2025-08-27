@@ -44,23 +44,19 @@
   <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
   <br><br>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=vs" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=ps" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=ai" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
 </p>
 
 ---
