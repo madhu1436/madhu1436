@@ -59,16 +59,17 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
-</p>
+</p> 
 
 ---
-
 ## Experience
-### [Flutter Developer Intern – **Avitam Technologies**](https://avitamacademy.in/)
-* Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.
+### [Flutter Developer Intern – **Avitam Technologies**](https://www.avitam.in/)
+* Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.  
+* Integrated **REST APIs and Firebase services** to enhance app functionality.
 
 ### [Flutter Developer Intern – **ITtoALL Technologies**](https://ittoall.com/)
-* Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
+* Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.  
+* Contributed to **bug fixing and performance optimization**, ensuring smooth user experience.
 
 ---
 
