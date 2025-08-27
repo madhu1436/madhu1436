@@ -92,11 +92,7 @@
 </p>
 
 ---
-
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
+![github trophies](https://github-profile-trophy.vercel.app/?username=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1)
 
 ---
 
