@@ -46,6 +46,8 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
   <br>
+  <img src="https://skillicons.dev/icons?i=vs" width="45" height="45"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=excel" width="45" height="45"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=ps" width="45" height="45"/>
@@ -62,10 +64,10 @@
 ---
 
 ## Experience
-### <img src="https://www.avitam.in/favicon.ico" width="30"/> Flutter Developer Intern – **Avitam Technologies**
+### [Flutter Developer Intern – **Avitam Technologies**](https://avitamacademy.in/)
 * Developed **cross-platform Flutter apps**, focusing on sleek UI and robust performance.
 
-### <img src="https://ittoall.com/logo.ico" width="30"/> Flutter Developer Intern – **ITtoALL Technologies**
+### [Flutter Developer Intern – **ITtoALL Technologies**](https://ittoall.com/)
 * Collaborated on **mobile UI/UX enhancements** and participated in iterative app development.
 
 ---
