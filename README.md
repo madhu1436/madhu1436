@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/@yourfigma" target="_blank">
+  <a href=" https://www.figma.com/files/team/1394917170579328718/recents-and-sharing?fuid=1394917164338329787" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
   </a>
 </p>
