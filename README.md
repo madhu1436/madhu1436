@@ -92,9 +92,6 @@
 </p>
 
 ---
-![github trophies](https://github-profile-trophy.vercel.app/?username=madhu1436&theme=tokyonight&no-frame=true&margin-w=10&row=1)
-
----
 
 ## Contribution Graph
 <p align="center">
